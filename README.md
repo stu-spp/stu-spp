@@ -1,5 +1,5 @@
 </p>
-<a href="https://github.com/stu-spp" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=stu-spp&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged&include_all_commits=true&bg_color=0E1117&title_color=fa66ed&icon_color=6bbbfa&text_color=c5c8c6&ring_color=98ed3f&border_radius=8" alt="GitHub Stats"></a>
+<a href="https://github.com/stu-spp" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=stu-spp&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged&bg_color=0E1117&title_color=fa66ed&icon_color=6bbbfa&text_color=c5c8c6&ring_color=98ed3f&border_radius=8" alt="GitHub Stats"></a>
 <br />
 
 
