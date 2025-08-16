@@ -1,5 +1,5 @@
 </p>
-<a href="https://github.com/stu-spp" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=stu-spp&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged&bg_color=0E1117&title_color=fa66ed&icon_color=6bbbfa&text_color=c5c8c6&ring_color=98ed3f&border_radius=8" alt="GitHub Stats"></a>
+<a href="https://github.com/stu-spp" target="_blank"><img align="right" src="https://raw.githubusercontent.com/stu-spp/github-stats/master/generated/overview.svg" alt="GitHub Stats"></a>
 <br />
 
 
@@ -11,4 +11,8 @@
 
 <div align="center">
   <img align="center" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/stu-spp/stu-spp/snake/github-contribution-grid-snake-dark.svg">
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/stu-spp/github-stats/master/generated/languages.svg" alt="Top Languages" />
 </div>
