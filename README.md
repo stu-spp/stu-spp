@@ -16,3 +16,10 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/stu-spp/github-stats/master/generated/languages.svg" alt="Top Languages" />
 </div>
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stu-spp&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stu-spp&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stu-spp&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stu-spp&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=stu-spp&theme=nord_dark)
