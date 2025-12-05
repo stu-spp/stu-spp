@@ -13,9 +13,3 @@
   <img align="center" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/stu-spp/stu-spp/snake/github-contribution-grid-snake-dark.svg">
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/stu-spp/github-stats/master/generated/languages.svg" alt="Top Languages" />
-</div>
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stu-spp&theme=nord_dark)
