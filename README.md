@@ -1,7 +1,3 @@
-</p>
-<a href="https://github.com/stu-spp" target="_blank"><img align="right" src="https://raw.githubusercontent.com/stu-spp/github-stats/master/generated/overview.svg" alt="GitHub Stats"></a>
-<br />
-
 
 - 👋 Hi, I’m @stu-spp.
 - 👀 I’m interested in Machine Vision, GPS, and SDR.
